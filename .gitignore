@@ -1,0 +1,5 @@
+/.env
+/config/sources.yaml
+/alembic/
+/.venv/
+/.idea/
